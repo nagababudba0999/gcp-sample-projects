@@ -1,5 +1,5 @@
-Project 1:
-Install Python Flask application on VM
+**Project 1: Install Python Flask application on VM**
+
 Step 1: Create CloudSQL, Connect to it
 
 Step 2: Create Table by using the below sql:
@@ -23,8 +23,10 @@ EOF
 
 Step 6: Create Load Balancer and take the public Ip and hit from the browser. 
 
-Project 2:
-Install Python Flask application on GKE
+
+
+**Project 2: Install Python Flask application on GKE**
+
 Step 1 & 2 are same as above 
 
 Step 3: Create GKE cluster 
